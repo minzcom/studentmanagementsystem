@@ -1,4 +1,4 @@
-
+|JUST FOR LEARNING PURPOSES |
 # 🎓 Student Management System (JSP & Servlets)
 
 A simple web-based Student Management System built using **Java EE (JSP & Servlets)**, styled with **Bootstrap**, and powered by a **MySQL** backend.
